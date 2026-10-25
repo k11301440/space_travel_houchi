@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">宇宙探査</string>
+    <string name="app_subtitle">放置型天体探索</string>
+    <string name="status_docked">停泊中</string>
+    <string name="status_expedition">航行中</string>
+    <string name="btn_launch">出航する</string>
+    <string name="btn_return">帰還する</string>
+    <string name="btn_skip">スキップ</string>
+    <string name="btn_close">閉じる</string>
+    <string name="btn_confirm">確認</string>
+    <string name="btn_cancel">キャンセル</string>
+    <string name="nav_home">ホーム</string>
+    <string name="nav_database">図鑑</string>
+    <string name="nav_hangar">格納庫</string>
+    <string name="nav_settings">設定</string>
+
+    <string name="time_elapsed">経過時間</string>
+    <string name="effective_time">有効航行時間</string>
+    <string name="current_tier">到達ティア: %1$s</string>
+    <string name="credits">クレジット: %1$d</string>
+
+    <string name="report_title">探査報告書</string>
+    <string name="report_empty_title">収穫なし</string>
+    <string name="report_new_discovery">NEW!</string>
+    <string name="report_credits_earned">+%1$d クレジット獲得</string>
+
+    <string name="time_warp_detected">【警報】時空の乱れを検知しました</string>
+    <string name="time_warp_desc">端末時刻が24時間以上過去に戻されたため、航行が無効化され、ペナルティとして保有クレジットから %1$d クレジットが消失しました。</string>
+
+    <string name="db_discovery_rate">発見率: %1$d / %2$d (%3$.1f%%)</string>
+    <string name="db_first_found">初観測: %1$s</string>
+    <string name="db_observe_count">観測回数: %1$d回</string>
+    <string name="db_unknown_name">？？？</string>
+    <string name="db_unknown_desc">まだ観測されていません。さらなる深宇宙への航行が必要です。</string>
+
+    <string name="category_all">すべて</string>
+    <string name="category_minor">小天体</string>
+    <string name="category_asteroid">小惑星</string>
+    <string name="category_planet">惑星・衛星</string>
+    <string name="category_star">恒星</string>
+    <string name="category_nebula">星雲</string>
+    <string name="category_compact">BH・高密度星</string>
+    <string name="category_probe">謎の探査機</string>
+
+    <string name="settings_theme">テーマ</string>
+    <string name="settings_ui_size">UIサイズ</string>
+    <string name="settings_language">言語</string>
+    <string name="settings_mode">探索モード</string>
+    <string name="settings_mode_standard">標準 (出航 + アプリ離脱)</string>
+    <string name="settings_mode_high_precision">高精度 (画面オフ時間のみ)</string>
+    <string name="settings_backup_export">データ書き出し (JSON)</string>
+    <string name="settings_backup_import">データ読み込み (JSON)</string>
+    <string name="settings_reset_data">全データ初期化</string>
+    <string name="settings_about">このアプリについて</string>
+
+    <string name="debug_menu_title">【デバッグ】時間加速メニュー</string>
+    <string name="debug_menu_desc">※正式リリース時は削除されます</string>
+    <string name="debug_add_30m">+30分 進める</string>
+    <string name="debug_add_2h">+2時間 進める</string>
+    <string name="debug_add_6h">+6時間 進める</string>
+    <string name="debug_add_12h">+12時間 進める</string>
+    <string name="debug_add_24h">+24時間 進める</string>
+    <string name="debug_add_48h">+48時間 進める</string>
+    <string name="debug_rewind_25h">25時間巻き戻す (検知テスト)</string>
+    <string name="debug_reset_offset">時間オフセットをリセット</string>
+    <string name="debug_current_offset">現在のオフセット: +%1$d 分</string>
+
+    <string name="tutorial_title">宇宙探査へようこそ</string>
+    <string name="tutorial_step1_title">1. スマホを置く旅</string>
+    <string name="tutorial_step1_desc">出航ボタンを押すか、アプリを閉じるだけで宇宙船が出発します。スマホから離れている時間が、宇宙探索の時間になります。</string>
+    <string name="tutorial_step2_title">2. 帰還と発見</string>
+    <string name="tutorial_step2_desc">再びアプリを開くと帰還します。航行時間に応じて未知の天体を発見し、クレジットを獲得できます。（30分未満は収穫なし）</string>
+    <string name="tutorial_step3_title">3. 格納庫と図鑑</string>
+    <string name="tutorial_step3_desc">獲得したクレジットで船体をカスタマイズ。全100種の天体図鑑のコンプリートを目指しましょう！</string>
+    <string name="tutorial_btn_start">探索を開始する</string>
+</resources>

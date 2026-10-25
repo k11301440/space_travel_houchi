@@ -1,0 +1,23 @@
+{
+  "skins": [
+    { "id": "skin_default", "name_ja": "標準装甲 (プロトタイプ)", "name_en": "Standard Alloy (Prototype)", "price": 0, "color_primary": "#FFFFFF", "color_secondary": "#5BC8FF" },
+    { "id": "skin_stealth", "name_ja": "ステルスブラック", "name_en": "Stealth Obsidian", "price": 100, "color_primary": "#20232A", "color_secondary": "#404854" },
+    { "id": "skin_solar", "name_ja": "ソーラーゴールド", "name_en": "Solar Gold", "price": 250, "color_primary": "#FFB454", "color_secondary": "#FF8A00" },
+    { "id": "skin_cobalt", "name_ja": "コバルトブルー", "name_en": "Cobalt Deep", "price": 400, "color_primary": "#1E56A0", "color_secondary": "#5BC8FF" },
+    { "id": "skin_crimson", "name_ja": "クリムゾンレッド", "name_en": "Crimson Comet", "price": 600, "color_primary": "#E63946", "color_secondary": "#FF8A8A" },
+    { "id": "skin_emerald", "name_ja": "エメラルドオーロラ", "name_en": "Emerald Aurora", "price": 850, "color_primary": "#2A9D8F", "color_secondary": "#7FE3A1" },
+    { "id": "skin_cyber", "name_ja": "サイバーネオン", "name_en": "Cyber Neon", "price": 1200, "color_primary": "#7209B7", "color_secondary": "#F72585" },
+    { "id": "skin_cosmic", "name_ja": "コズミックパール", "name_en": "Cosmic Pearl", "price": 2000, "color_primary": "#F8F9FA", "color_secondary": "#D0D5DD" }
+  ],
+  "flames": [
+    { "id": "flame_blue", "name_ja": "イオンブルー (標準)", "name_en": "Ion Blue (Standard)", "price": 0, "color": "#5BC8FF" },
+    { "id": "flame_orange", "name_ja": "プラズマオレンジ", "name_en": "Plasma Orange", "price": 150, "color": "#FFB454" },
+    { "id": "flame_magenta", "name_ja": "タキオンマゼンタ", "name_en": "Tachyon Magenta", "price": 450, "color": "#FF4D94" },
+    { "id": "flame_cyan", "name_ja": "クォークシアン", "name_en": "Quark Cyan", "price": 800, "color": "#00F5D4" }
+  ],
+  "lights": [
+    { "id": "light_cyan", "name_ja": "クールシアン (標準)", "name_en": "Cool Cyan (Standard)", "price": 0, "color": "#7CE7FF" },
+    { "id": "light_amber", "name_ja": "アンバーウォーム", "name_en": "Amber Warm", "price": 120, "color": "#FFD166" },
+    { "id": "light_green", "name_ja": "バイオグリーン", "name_en": "Bio Green", "price": 300, "color": "#06D6A0" }
+  ]
+}

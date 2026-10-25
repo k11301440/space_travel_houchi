@@ -1,0 +1,42 @@
+{
+  "max_effective_ms": 259200000,
+  "min_effective_ms": 1800000,
+  "time_rewind_threshold_ms": 86400000,
+  "penalty_rate": 0.10,
+  "penalty_max": 500,
+  "tiers": [
+    { "tier": "T0", "min_ms": 0, "max_ms": 1799999, "discoveries": 0 },
+    { "tier": "T1", "min_ms": 1800000, "max_ms": 7199999, "discoveries": 1 },
+    { "tier": "T2", "min_ms": 7200000, "max_ms": 21599999, "discoveries": 1 },
+    { "tier": "T3", "min_ms": 21600000, "max_ms": 43199999, "discoveries": 2 },
+    { "tier": "T4", "min_ms": 43200000, "max_ms": 86399999, "discoveries": 2 },
+    { "tier": "T5", "min_ms": 86400000, "max_ms": 172799999, "discoveries": 3 },
+    { "tier": "T6", "min_ms": 172800000, "max_ms": 999999999, "discoveries": 3 }
+  ],
+  "rarity_weights": {
+    "T1": { "1": 90, "2": 10, "3": 0, "4": 0, "5": 0 },
+    "T2": { "1": 60, "2": 35, "3": 5, "4": 0, "5": 0 },
+    "T3": { "1": 30, "2": 40, "3": 25, "4": 5, "5": 0 },
+    "T4": { "1": 10, "2": 30, "3": 40, "4": 18, "5": 2 },
+    "T5": { "1": 5, "2": 15, "3": 35, "4": 35, "5": 10 },
+    "T6": { "1": 0, "2": 10, "3": 30, "4": 40, "5": 20 }
+  },
+  "probe_rates": {
+    "T1": 0.0,
+    "T2": 0.02,
+    "T3": 0.03,
+    "T4": 0.05,
+    "T5": 0.07,
+    "T6": 0.10
+  },
+  "rewards": {
+    "first_discovery": {
+      "1": 10,
+      "2": 25,
+      "3": 60,
+      "4": 150,
+      "5": 400
+    },
+    "reobserve_ratio": 0.20
+  }
+}

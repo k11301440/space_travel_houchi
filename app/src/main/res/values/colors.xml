@@ -1,0 +1,16 @@
+<resources>
+    <color name="bg_dark">#000000</color>
+    <color name="surface_dark">#0B0D10</color>
+    <color name="surface_variant_dark">#14181D</color>
+    <color name="border_dark">#2A3038</color>
+    <color name="text_primary_dark">#F2F4F7</color>
+    <color name="text_secondary_dark">#9AA4AF</color>
+    <color name="accent_blue">#5BC8FF</color>
+    <color name="accent_warm">#FFB454</color>
+
+    <color name="rarity_1">#9AA4AF</color>
+    <color name="rarity_2">#7FE3A1</color>
+    <color name="rarity_3">#5BC8FF</color>
+    <color name="rarity_4">#C58BFF</color>
+    <color name="rarity_5">#FFB454</color>
+</resources>

@@ -1,0 +1,129 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "ja": "デブリの通過を検知。回避機動を実施したため進路を一時変更した。",
+      "en": "Space debris detected. Minor course correction executed for safety."
+    },
+    {
+      "id": 2,
+      "ja": "宇宙船のセンサーを校正中。周囲に微弱なノイズ以外は確認できず。",
+      "en": "Sensors recalibrating. Nothing observed except faint cosmic microwave background."
+    },
+    {
+      "id": 3,
+      "ja": "静寂の暗黒宙域を航行中。星々の輝きが遠くに瞬いている。",
+      "en": "Cruising through a silent void. Distant stars flicker quietly."
+    },
+    {
+      "id": 4,
+      "ja": "小規模な太陽風を観測。磁気シールドが正常に稼働している。",
+      "en": "Minor solar wind encountered. Magnetic shielding operating nominally."
+    },
+    {
+      "id": 5,
+      "ja": "通信アンテナの点検を完了。微弱な地球からの電波を受信した。",
+      "en": "Antenna check completed. Faint carrier signal received from Earth."
+    },
+    {
+      "id": 6,
+      "ja": "メインエンジンの推力テストを実施。推進系統に異常なし。",
+      "en": "Thruster test conducted. Propulsion systems nominal."
+    },
+    {
+      "id": 7,
+      "ja": "広大な小惑星帯の外縁を通過。衝突の危険は観測されず。",
+      "en": "Passing the outer rim of an asteroid belt. No collision risks detected."
+    },
+    {
+      "id": 8,
+      "ja": "短時間のスリープモードから復帰。船内気圧、温度ともに安定。",
+      "en": "Waking from short standby. Internal pressure and temperature stable."
+    },
+    {
+      "id": 9,
+      "ja": "微細塵の衝突音をキャビン外壁で記録。外殻装甲に損傷なし。",
+      "en": "Micrometeorite impact logged on outer hull. Armor integrity 100%."
+    },
+    {
+      "id": 10,
+      "ja": "恒星間磁場の変動を計測。新たな天体はまだ視野に入っていない。",
+      "en": "Interstellar magnetic field fluctuation recorded. No celestial bodies in sight yet."
+    },
+    {
+      "id": 11,
+      "ja": "姿勢制御スラスタの噴射テスト成功。針路は正確に維持されている。",
+      "en": "RCS thruster test successful. Ship holding steady on course."
+    },
+    {
+      "id": 12,
+      "ja": "光学望遠鏡による全天スキャンを実施。未踏領域の観測を継続中。",
+      "en": "All-sky optical survey underway. Continuing sweep of uncharted space."
+    },
+    {
+      "id": 13,
+      "ja": "未知の電波バーストを一時受信。減衰が早く発生源の特定には至らず。",
+      "en": "Brief radio burst recorded, but faded too quickly to triangulate source."
+    },
+    {
+      "id": 14,
+      "ja": "慣性航行中。燃料消費を抑えつつ深宇宙へ向けて滑空している。",
+      "en": "Inertial coasting phase. Conserving propellant while drifting into deep space."
+    },
+    {
+      "id": 15,
+      "ja": "船内AIが星図の自動照合を完了。現在の座標に異常なし。",
+      "en": "Nav computer finished star-map triangulation. Coordinates confirmed."
+    },
+    {
+      "id": 16,
+      "ja": "太陽光パネルの受光角度を最適化。予備蓄電容量は最大。",
+      "en": "Solar arrays repositioned. Auxiliary power reserves full."
+    },
+    {
+      "id": 17,
+      "ja": "長周期彗星の遠い尾をかすめる。水分子の痕跡を検出した。",
+      "en": "Skimming the faint tail of a distant comet. Trace water molecules detected."
+    },
+    {
+      "id": 18,
+      "ja": "冷却システムのパージを実施。機体熱バランスは極めて良好。",
+      "en": "Cooling loop cycle completed. Thermal equilibrium optimal."
+    },
+    {
+      "id": 19,
+      "ja": "漆黒の星間物質雲をゆっくりと通過中。可視光界は遮られている。",
+      "en": "Drifting through dark interstellar dust. Visible light spectrum obstructed."
+    },
+    {
+      "id": 20,
+      "ja": "重力波検出器のバックグラウンド測定を更新。宇宙の鼓動を記録した。",
+      "en": "Gravitational wave detector background calibrated. Cosmic hum recorded."
+    },
+    {
+      "id": 21,
+      "ja": "機体ログのアーカイブ処理を実行。次なる発見への準備は万全。",
+      "en": "Archiving flight logs. Fully prepped for the next discovery."
+    },
+    {
+      "id": 22,
+      "ja": "短時間の航行を終えて母港へ針路を戻した。次回の長旅に期待。",
+      "en": "Returning home after a brief scouting hop. Ready for a longer voyage."
+    },
+    {
+      "id": 23,
+      "ja": "外宇宙放射線センサーの積算値をリセット。被曝量は許容範囲内。",
+      "en": "Cosmic ray exposure logged within safe operating margins."
+    },
+    {
+      "id": 24,
+      "ja": "ドップラー効果による星条光の変化を記録。美しき星海が広がる。",
+      "en": "Recording subtle Doppler shifts. A magnificent ocean of stars awaits."
+    },
+    {
+      "id": 25,
+      "ja": "推進剤の予熱完了。いつでも次なる跳躍航行へ移行可能。",
+      "en": "Propellant preheated. Ready for the next hyperspace cruise."
+    }
+  ]
+}

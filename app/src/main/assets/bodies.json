@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "category": "minor_body",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ハレー彗星",
+      "en": "Halley's Comet"
+    },
+    "description": {
+      "ja": "約76年の周期で太陽の周囲を公転する有名な長周期彗星。氷と塵で構成された美しい尾を引く姿は、太古の昔から人類に観測されてきた。",
+      "en": "A famous periodic comet returning to Earth's vicinity every 76 years. Composed of volatile ice and dust, its majestic glowing tail has inspired astronomers since antiquity."
+    },
+    "image": "body_1",
+    "facts": {
+      "distance": "約0.6〜35 AU",
+      "type": "周期彗星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 2,
+    "category": "minor_body",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ケレス",
+      "en": "Ceres"
+    },
+    "description": {
+      "ja": "小惑星帯に位置する準惑星。かつては小惑星とされていたが、球形を保つ十分な質量を持つ。地下には氷のマントルが存在すると推測されている。",
+      "en": "A dwarf planet located in the asteroid belt. Possessing enough gravity to maintain spherical equilibrium, scientists hypothesize a salty subsurface ocean underneath its crust."
+    },
+    "image": "body_2",
+    "facts": {
+      "distance": "約2.77 AU",
+      "type": "準惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 3,
+    "category": "minor_body",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "エンケ彗星",
+      "en": "Comet Encke"
+    },
+    "description": {
+      "ja": "公転周期が約3.3年と極めて短い短周期彗星。太陽に頻繁に近づくため揮発成分の散逸が進んでいるが、おうし座流星群の母天体として知られる。",
+      "en": "A periodic comet with an extraordinarily short orbit of about 3.3 years. Originating the Taurid meteor showers, it steadily sheds material on every solar flyby."
+    },
+    "image": "body_3",
+    "facts": {
+      "distance": "約2.2 AU",
+      "type": "短周期彗星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 4,
+    "category": "minor_body",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "チュリュモフ・ゲラシメンコ彗星",
+      "en": "Comet 67P/C-G"
+    },
+    "description": {
+      "ja": "探査機ロゼッタが周回探査を行い、着陸機フィラエが表面に降り立ったアレイ状の彗星。二重ローブの独特な形状と活発なガス噴出が特徴。",
+      "en": "A bi-lobed Jupiter-family comet studied closely by ESA's Rosetta mission. Landed upon by the Philae probe, its rubber-duck silhouette reveals active cometary jets."
+    },
+    "image": "body_4",
+    "facts": {
+      "distance": "約3.5 AU",
+      "type": "木星族彗星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 5,
+    "category": "minor_body",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ボリソフ彗星",
+      "en": "Comet Borisov"
+    },
+    "description": {
+      "ja": "太陽系外から飛来した観測史上2例目の恒星間天体。二酸化炭素に富む組成を持ち、遠方の原始惑星系円盤から放出されたと考えられている。",
+      "en": "The second interstellar object detected passing through our solar system. Highly enriched in carbon monoxide, it was ejected from a distant protoplanetary nursery."
+    },
+    "image": "body_5",
+    "facts": {
+      "distance": "双曲線軌道 (離脱)",
+      "type": "恒星間彗星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 6,
+    "category": "minor_body",
+    "rarity": 2,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "冥王星",
+      "en": "Pluto"
+    },
+    "description": {
+      "ja": "カイパーベルトに位置する氷の準惑星。窒素やメタンの氷で覆われ、ハート形の平原スプートニク平原など多彩で活動的な地形が探査機によって判明した。",
+      "en": "A dwarf planet in the Kuiper Belt coated in nitrogen and methane ice. Featuring the vast heart-shaped plain Sputnik Planitia, it exhibits surprisingly dynamic geological activity."
+    },
+    "image": "body_6",
+    "facts": {
+      "distance": "約39.5 AU",
+      "type": "準惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 7,
+    "category": "minor_body",
+    "rarity": 2,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "カロン",
+      "en": "Charon"
+    },
+    "description": {
+      "ja": "冥王星の最大の衛星。冥王星に対して質量比が大きく、互いに共通重心の周りを回り合う二重天体としての性質を持つ。北極には褐色のモルドール斑がある。",
+      "en": "Pluto's largest moon, so massive that the pair orbits a common center of mass outside Pluto. Its north polar region displays a prominent reddish-brown tholin cap."
+    },
+    "image": "body_7",
+    "facts": {
+      "distance": "約39.5 AU",
+      "type": "氷衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 8,
+    "category": "minor_body",
+    "rarity": 2,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "マケマケ",
+      "en": "Makemake"
+    },
+    "description": {
+      "ja": "太陽系外縁天体の一つで、古典的エッジワース・カイパーベルトに属する。メタンやエタンの氷が凍りついた極寒の地表を持ち、赤みを帯びている。",
+      "en": "A classical Kuiper Belt dwarf planet with a reddish surface glazed in frozen methane and ethane. It orbits in the frigid outer reaches of our solar system."
+    },
+    "image": "body_8",
+    "facts": {
+      "distance": "約45.8 AU",
+      "type": "準惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 9,
+    "category": "minor_body",
+    "rarity": 3,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ハウメア",
+      "en": "Haumea"
+    },
+    "description": {
+      "ja": "高速自転によってラグビーボールのように極端に引き延ばされた形状を持つ準惑星。結晶質の純粋な氷で覆われ、微細な環構造と2つの衛星を従えている。",
+      "en": "A fast-spinning dwarf planet elongated into an ellipsoid shape. Encased in crystalline water ice, this bizarre world is encircled by its own slender ring system."
+    },
+    "image": "body_9",
+    "facts": {
+      "distance": "約43.2 AU",
+      "type": "準惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 10,
+    "category": "minor_body",
+    "rarity": 3,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "エリス",
+      "en": "Eris"
+    },
+    "description": {
+      "ja": "散乱円盤天体に属する高密度の準惑星。冥王星と同等の大きさを持ちながら質量が重く、その発見が惑星の定義見直しの大きなきっかけとなった。",
+      "en": "A dense dwarf planet in the scattered disc. Roughly the size of Pluto but considerably heavier, its discovery prompted the global redefinition of planets."
+    },
+    "image": "body_10",
+    "facts": {
+      "distance": "約96.0 AU",
+      "type": "散乱円盤天体"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 11,
+    "category": "asteroid",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "イトカワ",
+      "en": "Itokawa"
+    },
+    "description": {
+      "ja": "小惑星探査機はやぶさが微粒子を採取したラブルパイル天体。岩石が重力で緩やかに集まった落花生のような形状で、地球近傍小惑星に分類される。",
+      "en": "A rubble-pile near-Earth asteroid sampled by JAXA's Hayabusa mission. Shaped like a peanut, it is a loose agglomeration of rocks held together by feeble gravity."
+    },
+    "image": "body_11",
+    "facts": {
+      "distance": "約1.3 AU",
+      "type": "S型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 12,
+    "category": "asteroid",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "リュウグウ",
+      "en": "Ryugu"
+    },
+    "description": {
+      "ja": "はやぶさ2が探査した炭素質小惑星。そろばん玉のような形状を持ち、採取されたサンプルから有機物やアミノ酸、水を含む鉱物が多数発見された。",
+      "en": "A diamond-shaped carbonaceous asteroid explored by Hayabusa2. Pristine surface samples returned to Earth revealed complex organic molecules and ancient hydrated minerals."
+    },
+    "image": "body_12",
+    "facts": {
+      "distance": "約1.19 AU",
+      "type": "C型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 13,
+    "category": "asteroid",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ベンヌ",
+      "en": "Bennu"
+    },
+    "description": {
+      "ja": "探査機オシリス・レックスがサンプル採取に成功した地球接近小惑星。太陽熱の放射差（ヤルコフスキー効果）による軌道変化が精密に測定されている。",
+      "en": "A near-Earth rubble pile targeted by NASA's OSIRIS-REx spacecraft. Its trajectory is carefully monitored as a model for the subtle thermal Yarkovsky effect."
+    },
+    "image": "body_13",
+    "facts": {
+      "distance": "約1.13 AU",
+      "type": "B型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 14,
+    "category": "asteroid",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "エロス",
+      "en": "Eros"
+    },
+    "description": {
+      "ja": "探査機NEARシューメーカーが周回および軟着陸した初の小惑星。細長いジャガイモのような形をしており、表面は数多くのクレーターと岩塊で覆われる。",
+      "en": "An elongated peanut-shaped asteroid historically orbited and touched down upon by the NEAR Shoemaker probe, sporting countless boulders across its weathered regolith."
+    },
+    "image": "body_14",
+    "facts": {
+      "distance": "約1.46 AU",
+      "type": "S型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 15,
+    "category": "asteroid",
+    "rarity": 1,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ディディモス",
+      "en": "Didymos"
+    },
+    "description": {
+      "ja": "衛星ディモルフォスを従える二重小惑星。NASAのDART計画により探査機が衛星へ衝突実験を行い、人類史上初めて天体の軌道変更が実証された。",
+      "en": "A binary asteroid system whose smaller moonlet Dimorphos was struck by NASA's DART spacecraft, marking humanity's first successful planetary defense kinetic deflection test."
+    },
+    "image": "body_15",
+    "facts": {
+      "distance": "約1.64 AU",
+      "type": "二重小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 16,
+    "category": "asteroid",
+    "rarity": 2,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ベスタ",
+      "en": "Vesta"
+    },
+    "description": {
+      "ja": "小惑星帯で2番目に大きな天体。原始惑星としての分化が進んでおり、玄武岩質の地殻と鉄のコアを持つ。南半球には巨大なクレーターが存在する。",
+      "en": "The second-most massive resident of the asteroid belt. A differentiated proto-planet featuring a basaltic crust, metallic core, and an immense south polar impact basin."
+    },
+    "image": "body_16",
+    "facts": {
+      "distance": "約2.36 AU",
+      "type": "V型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 17,
+    "category": "asteroid",
+    "rarity": 2,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "パラス",
+      "en": "Pallas"
+    },
+    "description": {
+      "ja": "小惑星帯で3番目の質量を誇る大型小惑星。軌道傾斜角が34度と極めて大きく、斜めに傾いた軌道で激しい衝突を繰り返してきた痕跡がある。",
+      "en": "A huge asteroid in the main belt noted for its steep orbital inclination of 34 degrees. Its heavily cratered, golf-ball-like surface testifies to violent evolutionary impacts."
+    },
+    "image": "body_17",
+    "facts": {
+      "distance": "約2.77 AU",
+      "type": "B型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 18,
+    "category": "asteroid",
+    "rarity": 2,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "アポフィス",
+      "en": "Apophis"
+    },
+    "description": {
+      "ja": "地球接近軌道を持つ小惑星。将来の最接近時には静止衛星軌道の内側を通過することが予測されており、詳細な観測態勢が世界規模で整えられている。",
+      "en": "A near-Earth asteroid slated for an exceptionally close encounter inside geosynchronous orbit in 2029, offering scientists an unprecedented close-up gravitational laboratory."
+    },
+    "image": "body_18",
+    "facts": {
+      "distance": "約0.92 AU",
+      "type": "アテン群小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 19,
+    "category": "asteroid",
+    "rarity": 3,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "ヒギエア",
+      "en": "Hygiea"
+    },
+    "description": {
+      "ja": "小惑星帯の主要天体の中で最も暗い炭素質小惑星。ほぼ球形を保っており、太陽系で最も小さな準惑星の候補としても注目を集めている。",
+      "en": "A dark carbonaceous world in the outer asteroid belt. Very close to spherical hydrostatic equilibrium, it is regarded as a potential candidate for dwarf planet status."
+    },
+    "image": "body_19",
+    "facts": {
+      "distance": "約3.14 AU",
+      "type": "C型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 20,
+    "category": "asteroid",
+    "rarity": 3,
+    "min_tier": "T1",
+    "fictional": false,
+    "name": {
+      "ja": "プシケ",
+      "en": "Psyche"
+    },
+    "description": {
+      "ja": "露出した金属コアではないかと考えられている巨大なM型小惑星。鉄やニッケルが豊富に含まれ、惑星形成時の激しい衝突の歴史を今に伝える。",
+      "en": "An enormous metallic M-type asteroid thought to be the exposed iron-nickel core of a shattered planetesimal from the dawn of our solar system."
+    },
+    "image": "body_20",
+    "facts": {
+      "distance": "約2.92 AU",
+      "type": "M型小惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 21,
+    "category": "planet",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "月",
+      "en": "The Moon"
+    },
+    "description": {
+      "ja": "地球唯一の天然衛星。大気を持たず、クレーターに刻まれた歴史は太陽系初期の記憶を留める。人類が足を踏み入れた唯一の地球外天体。",
+      "en": "Earth's sole natural companion. Free of atmosphere and erosion, its ancient cratered highlands and dark basaltic maria preserve memories of the solar system's dawn."
+    },
+    "image": "body_21",
+    "facts": {
+      "distance": "約384,400 km",
+      "type": "天然衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 22,
+    "category": "planet",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "水星",
+      "en": "Mercury"
+    },
+    "description": {
+      "ja": "太陽に最も近い岩石惑星。昼夜の温度差が600度以上にも達する過酷な世界。極域の永久影クレーター内には氷が存在することが確認されている。",
+      "en": "The smallest and innermost planet. Enduring blistering 600-degree swings between day and night, deep permanently shadowed polar craters still shelter sheets of water ice."
+    },
+    "image": "body_22",
+    "facts": {
+      "distance": "約0.39 AU",
+      "type": "岩石惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 23,
+    "category": "planet",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "火星",
+      "en": "Mars"
+    },
+    "description": {
+      "ja": "酸化鉄に覆われた赤い惑星。かつて温暖湿潤な気候と海が存在した痕跡が数多く発見されており、地下の生命探査が精力的に進められている。",
+      "en": "The Red Planet, rusted by iron oxides. Ancient dry riverbeds, deltas, and clays indicate flowing liquid water once carved its surface billions of years ago."
+    },
+    "image": "body_23",
+    "facts": {
+      "distance": "約1.52 AU",
+      "type": "岩石惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 24,
+    "category": "planet",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "金星",
+      "en": "Venus"
+    },
+    "description": {
+      "ja": "二酸化炭素の濃厚な大気による極端な温室効果で、表面温度が約460度に達する灼熱の惑星。硫酸の雲に覆われ、自転は公転と逆向きである。",
+      "en": "A scorching planetary inferno wrapped in choking carbon dioxide and corrosive sulfuric acid clouds. Runaway greenhouse heating drives surface temperatures above 460 degrees."
+    },
+    "image": "body_24",
+    "facts": {
+      "distance": "約0.72 AU",
+      "type": "岩石惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 25,
+    "category": "planet",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "木星",
+      "en": "Jupiter"
+    },
+    "description": {
+      "ja": "太陽系最大のガス惑星。水素とヘリウムを主成分とし、地球が数個入る大赤斑と呼ばれる巨大な渦が吹き荒れる。強力な磁場と放射線帯を持つ。",
+      "en": "The king of our solar system, an immense gas giant with dynamic storm bands and the Great Red Spot. It generates a colossal, radiation-heavy magnetosphere."
+    },
+    "image": "body_25",
+    "facts": {
+      "distance": "約5.20 AU",
+      "type": "ガス惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 26,
+    "category": "planet",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "土星",
+      "en": "Saturn"
+    },
+    "description": {
+      "ja": "無数の氷の破片で構成された美しい環を持つガス惑星。密度が水よりも小さく、大気上層には時折白い巨大な嵐（白斑）が発生する。",
+      "en": "Renowned for its spectacular dazzling rings made of water ice particles. Less dense than water, this golden gas giant showcases complex atmospheric jet streams."
+    },
+    "image": "body_26",
+    "facts": {
+      "distance": "約9.58 AU",
+      "type": "ガス惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 27,
+    "category": "planet",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "イオ",
+      "en": "Io"
+    },
+    "description": {
+      "ja": "木星の強大な潮汐力によって内部が加熱され、太陽系で最も活発な火山活動を誇る衛星。黄色の硫黄化合物で覆われ、溶岩流が絶えず噴出している。",
+      "en": "The most volcanically turbulent world in the solar system. Relentless gravitational kneading from Jupiter keeps its mantle molten, venting plumes of sulfur into space."
+    },
+    "image": "body_27",
+    "facts": {
+      "distance": "約421,700 km (木星軌道)",
+      "type": "火山衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 28,
+    "category": "planet",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "天王星",
+      "en": "Uranus"
+    },
+    "description": {
+      "ja": "自転軸が約98度横倒しになった氷惑星。メタンを含む大気により淡い青緑色に見える。極めて冷たく、独特の環と衛星系を従えている。",
+      "en": "An ice giant with a radical axial tilt of 98 degrees, spinning nearly perpendicular to its orbital plane. Atmospheric methane lends it a soothing aquamarine hue."
+    },
+    "image": "body_28",
+    "facts": {
+      "distance": "約19.2 AU",
+      "type": "氷惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 29,
+    "category": "planet",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "海王星",
+      "en": "Neptune"
+    },
+    "description": {
+      "ja": "太陽系最外郭の氷惑星。秒速500メートルを超える猛烈な超音速の風が吹き荒れ、深みのある濃い青色の大気には暗斑が観測される。",
+      "en": "The most distant major planet in our system. A deep cobalt sphere wracked by supersonic storms and ferocious winds gusting past 2,000 kilometers per hour."
+    },
+    "image": "body_29",
+    "facts": {
+      "distance": "約30.1 AU",
+      "type": "氷惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 30,
+    "category": "planet",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "エウロパ",
+      "en": "Europa"
+    },
+    "description": {
+      "ja": "滑らかな氷の外殻の下に、地球の海を上回る深大な地下海洋を持つ木星の衛星。熱水噴出孔が存在する可能性が高く、地球外生命の最有力候補地。",
+      "en": "A cracked ice moon harboring a subterranean saltwater ocean deeper than all of Earth's waters combined, warmed by tidal friction and potential hydrothermal vents."
+    },
+    "image": "body_30",
+    "facts": {
+      "distance": "約670,900 km (木星軌道)",
+      "type": "海洋衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 31,
+    "category": "planet",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "ガニメデ",
+      "en": "Ganymede"
+    },
+    "description": {
+      "ja": "水星をも上回る太陽系最大の衛星。独自の固有磁場を持ち、厚い氷の層の底には液体の塩水層が挟まれていると考えられている。",
+      "en": "The largest moon in the solar system, even surpassing the planet Mercury in radius. It is the only known moon possessing an active dynamo-driven magnetic field."
+    },
+    "image": "body_31",
+    "facts": {
+      "distance": "約1,070,400 km (木星軌道)",
+      "type": "氷衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 32,
+    "category": "planet",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "カリスト",
+      "en": "Callisto"
+    },
+    "description": {
+      "ja": "太陽系で最もクレーター密度が高い木星の衛星。古代の地殻が更新されずにそのまま残っており、同心円状の巨大衝突地形ヴァルハラが広がる。",
+      "en": "A heavily battered, crater-saturated moon whose ancient geological crust has remained frozen in time for billions of years, untouched by internal tectonic upheavals."
+    },
+    "image": "body_32",
+    "facts": {
+      "distance": "約1,882,700 km (木星軌道)",
+      "type": "氷衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 33,
+    "category": "planet",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "タイタン",
+      "en": "Titan"
+    },
+    "description": {
+      "ja": "濃厚な窒素大気を持ち、地表には液体のメタンやエタンの雨が降り注ぎ、川や湖を形成する土星の衛星。地球に似た特異な気象循環を持つ。",
+      "en": "Saturn's largest moon, shrouded in a dense nitrogen haze. It boasts an active hydrocarbon hydrological cycle complete with methane rain, rivers, and shimmering polar lakes."
+    },
+    "image": "body_33",
+    "facts": {
+      "distance": "約1,221,870 km (土星軌道)",
+      "type": "大気衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 34,
+    "category": "planet",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "エンケラドゥス",
+      "en": "Enceladus"
+    },
+    "description": {
+      "ja": "南極域の氷の割れ目「タイガーストライプ」から地下海の有機物を含む氷粒子が宇宙空間へ間欠泉のように噴き出す土星の衛星。",
+      "en": "A brilliant, reflective ice moon of Saturn that vents geysers of salty water, simple organics, and silica particles from warm fractures along its southern pole."
+    },
+    "image": "body_34",
+    "facts": {
+      "distance": "約238,000 km (土星軌道)",
+      "type": "海洋衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 35,
+    "category": "planet",
+    "rarity": 3,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "トリトン",
+      "en": "Triton"
+    },
+    "description": {
+      "ja": "海王星の逆行軌道を回る最大の衛星。カイパーベルトから捕獲された天体と考えられ、窒素ガスの間欠泉が吹き出す極寒の地表を持つ。",
+      "en": "Neptune's peculiar retrograde moon, likely a primordial Kuiper Belt object captured by gravitational drag. Cryovolcanic plumes geyser nitrogen across its cantaloupe plains."
+    },
+    "image": "body_35",
+    "facts": {
+      "distance": "約354,800 km (海王星軌道)",
+      "type": "捕獲衛星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 36,
+    "category": "planet",
+    "rarity": 3,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "プロキシマ・ケンタウリb",
+      "en": "Proxima Centauri b"
+    },
+    "description": {
+      "ja": "太陽系から最も近い恒星プロキシマ・ケンタウリのハビタブルゾーンを周回する岩石質系外惑星。母星のフレア放射に晒されている可能性が高い。",
+      "en": "An Earth-mass exoplanet orbiting within the habitable zone of our closest stellar neighbor. It faces relentless coronal radiation and extreme ultraviolet stellar flares."
+    },
+    "image": "body_36",
+    "facts": {
+      "distance": "約4.24 光年",
+      "type": "系外岩石惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 37,
+    "category": "planet",
+    "rarity": 3,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "TRAPPIST-1e",
+      "en": "TRAPPIST-1e"
+    },
+    "description": {
+      "ja": "超低温矮星TRAPPIST-1を公転する地球サイズの系外惑星。岩石組成を持ち、液体の水が存在しうる温和な放射環境にある。",
+      "en": "A temperate terrestrial exoplanet circling an ultracool red dwarf. Compact and rocky, its Earth-like density makes it one of the prime targets for biosignature detection."
+    },
+    "image": "body_37",
+    "facts": {
+      "distance": "約39.5 光年",
+      "type": "ハビタブル惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 38,
+    "category": "planet",
+    "rarity": 3,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "ケプラー452b",
+      "en": "Kepler-452b"
+    },
+    "description": {
+      "ja": "太陽によく似たG型主系列星のハビタブルゾーンを385日周期で公転する「地球のいとこ」。地球の約1.6倍の半径を持つスーパーアース。",
+      "en": "Dubbed 'Earth's cousin', this super-Earth circles a sun-like star in an orbit lasting 385 days, receiving radiant energy remarkably similar to our home planet."
+    },
+    "image": "body_38",
+    "facts": {
+      "distance": "約1,400 光年",
+      "type": "スーパーアース"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 39,
+    "category": "planet",
+    "rarity": 4,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "HD 209458 b (オシリス)",
+      "en": "HD 209458 b (Osiris)"
+    },
+    "description": {
+      "ja": "主星の至近距離を猛スピードで周回するホット・ジュピター。恒星の熱で大気が加熱されて宇宙空間へ尾のように吹き流されている姿が観測された。",
+      "en": "An archetypal hot Jupiter skimming dangerously close to its host sun. Intense stellar irradiation cooks its upper atmosphere into a comet-like escaping tail of hydrogen."
+    },
+    "image": "body_39",
+    "facts": {
+      "distance": "約159 光年",
+      "type": "ホット・ジュピター"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 40,
+    "category": "planet",
+    "rarity": 4,
+    "min_tier": "T2",
+    "fictional": false,
+    "name": {
+      "ja": "55カニ座e (ジャンセン)",
+      "en": "55 Cancri e (Janssen)"
+    },
+    "description": {
+      "ja": "主星のすぐそばを18時間で公転する超高密度の系外惑星。表面全体が溶融した溶岩の海で覆われ、内部は高圧の炭素（ダイヤモンド）層が疑われている。",
+      "en": "An ultrashort-period super-Earth glowing with molten lava oceans. Extreme mantle pressures may compress rich carbon reserves into diamond-rich deep strata."
+    },
+    "image": "body_40",
+    "facts": {
+      "distance": "約41 光年",
+      "type": "溶岩惑星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 41,
+    "category": "star",
+    "rarity": 1,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "プロキシマ・ケンタウリ",
+      "en": "Proxima Centauri"
+    },
+    "description": {
+      "ja": "太陽系に最も近い赤色矮星。質量は太陽の約12%と小さいが、表面で強力な磁気フレアを頻繁に爆発させ、数兆年の長大な寿命を持つと予測される。",
+      "en": "A flare red dwarf serving as our closest neighboring sun. Though possessing only a fraction of the Sun's mass, its slow nuclear burning permits a trillion-year lifespan."
+    },
+    "image": "body_41",
+    "facts": {
+      "distance": "約4.24 光年",
+      "type": "赤色矮星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 42,
+    "category": "star",
+    "rarity": 1,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "バーナード星",
+      "en": "Barnard's Star"
+    },
+    "description": {
+      "ja": "全天で最も固有運動（見かけの移動速度）が大きい恒星。太陽系に向かって接近しており、非常に穏やかな老齢の赤色矮星として研究されている。",
+      "en": "A very old red dwarf celebrated for having the highest known proper motion across the night sky, racing toward our solar neighborhood at rapid interstellar speeds."
+    },
+    "image": "body_42",
+    "facts": {
+      "distance": "約5.96 光年",
+      "type": "赤色矮星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 43,
+    "category": "star",
+    "rarity": 1,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "シリウスA",
+      "en": "Sirius A"
+    },
+    "description": {
+      "ja": "地球から肉眼で見える夜空で最も明るい恒星（おおいぬ座主星）。白色のA型主系列星で、太陽の約2倍の質量と25倍の光度を誇る。",
+      "en": "The brightest individual beacon visible in our nighttime firmament. An A-type white main-sequence powerhouse burning roughly twice as massive as our sun."
+    },
+    "image": "body_43",
+    "facts": {
+      "distance": "約8.60 光年",
+      "type": "A型主系列星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 44,
+    "category": "star",
+    "rarity": 1,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "アルファ・ケンタウリA",
+      "en": "Alpha Centauri A"
+    },
+    "description": {
+      "ja": "ケンタウルス座の三重連星系の主星。太陽と極めてよく似たスペクトル型Gの黄色主系列星で、安定した光を放っている。",
+      "en": "The primary constituent of the closest multi-star system. A bright yellow G-type dwarf with temperature, radius, and luminous output nearly identical to our home star."
+    },
+    "image": "body_44",
+    "facts": {
+      "distance": "約4.37 光年",
+      "type": "G型主系列星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 45,
+    "category": "star",
+    "rarity": 1,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "プロキオン",
+      "en": "Procyon"
+    },
+    "description": {
+      "ja": "こいぬ座の主星で冬の大三角を構成するF型主系列星。中心核の水素燃料を使い果たしつつあり、準巨星の段階へと移行している。",
+      "en": "A pale yellow-white F-type subgiant star in the constellation Canis Minor, forming the Winter Triangle as it begins swelling beyond core hydrogen fusion."
+    },
+    "image": "body_45",
+    "facts": {
+      "distance": "約11.46 光年",
+      "type": "F型準巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 46,
+    "category": "star",
+    "rarity": 1,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "アルタイル",
+      "en": "Altair"
+    },
+    "description": {
+      "ja": "夏の大三角の一角を占めるわし座の主星。高速で自転しているため赤道面が大きく膨らんでおり、偏平な回転楕円体の形状を保っている。",
+      "en": "One vertex of the Summer Triangle spinning at such blinding speed that centrifugal forces noticeably bulge its equator into an oblate oval shape."
+    },
+    "image": "body_46",
+    "facts": {
+      "distance": "約16.7 光年",
+      "type": "A型高速自転星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 47,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "ベガ",
+      "en": "Vega"
+    },
+    "description": {
+      "ja": "こと座の主星で夏の大三角の明るい頂点。周囲に赤外線を放射する冷たい塵の円盤が発見され、惑星系形成の研究における重要な基準星。",
+      "en": "A sparkling blue-white sapphire in Lyra. Surrounded by a conspicuous circumstellar debris ring, Vega provided groundbreaking proof of nascent planetary construction."
+    },
+    "image": "body_47",
+    "facts": {
+      "distance": "約25.0 光年",
+      "type": "A型主系列星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 48,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "シリウスB",
+      "en": "Sirius B"
+    },
+    "description": {
+      "ja": "シリウスAの周囲を回る、史上初めて発見された白色矮星。地球と同等の大きさに太陽の質量の大部分が濃縮された超高密度の天体残骸。",
+      "en": "The historic archetype of a degenerate white dwarf, packing roughly one solar mass into an incandescent core no larger than planet Earth."
+    },
+    "image": "body_48",
+    "facts": {
+      "distance": "約8.60 光年",
+      "type": "白色矮星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 49,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "タウ・ケティ",
+      "en": "Tau Ceti"
+    },
+    "description": {
+      "ja": "くじら座に位置する単一のG型主系列星。太陽に似て静穏であり、複数の系外惑星候補と太陽系を上回る濃いダストディスクを保持している。",
+      "en": "A quiet solitary G-class star neighboring our sun. Lacking a companion, it harbors planetary candidates nestled amid a thick circumstellar dust disk."
+    },
+    "image": "body_49",
+    "facts": {
+      "distance": "約11.9 光年",
+      "type": "G型主系列星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 50,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "ポルックス",
+      "en": "Pollux"
+    },
+    "description": {
+      "ja": "ふたご座のオレンジ色の巨星。かつてはA型主系列星だったが中心核の水素を燃焼し尽くし、巨大化して現在は系外惑星を従えている。",
+      "en": "An evolved orange giant in Gemini. Having consumed its core hydrogen, it expanded dramatically in volume and now hosts at least one confirmed gas giant."
+    },
+    "image": "body_50",
+    "facts": {
+      "distance": "約33.78 光年",
+      "type": "K型巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 51,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "アークトゥルス",
+      "en": "Arcturus"
+    },
+    "description": {
+      "ja": "うしかい座の赤色巨星。北天で最も明るい恒星の一つで、太陽の約25倍の半径に膨張している。銀河ハローから迷い込んだ古い恒星と考えられている。",
+      "en": "A roaring orange giant in Boötes, glowing brightly in the northern sky. It moves along a distinctive galactic halo stream, likely captured from an ancient swallowed dwarf galaxy."
+    },
+    "image": "body_51",
+    "facts": {
+      "distance": "約36.7 光年",
+      "type": "K型巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 52,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "カペラ",
+      "en": "Capella"
+    },
+    "description": {
+      "ja": "ぎょしゃ座の最も明るい星で、黄色巨星同士のペアを含む4重連星系。強いX線を放射しており、複雑な連星ダイナミクスを示す。",
+      "en": "A quadruple stellar system in Auriga dominated by two luminous yellow giant stars engaged in an intimate gravitational waltz, emitting powerful energetic X-rays."
+    },
+    "image": "body_52",
+    "facts": {
+      "distance": "約42.9 光年",
+      "type": "四重連星系"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 53,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "アルデバラン",
+      "en": "Aldebaran"
+    },
+    "description": {
+      "ja": "おうし座の赤い目を象徴する橙色巨星。プレアデス星団の近くに見えるが実際には手前に位置する。太陽の40倍以上に膨れ上がっている。",
+      "en": "The furious fiery eye of Taurus. An aged red-orange giant that has swelled to over forty solar diameters, casting an intense ruddy glow across interstellar space."
+    },
+    "image": "body_53",
+    "facts": {
+      "distance": "約65.3 光年",
+      "type": "K型巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 54,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "スピカ",
+      "en": "Spica"
+    },
+    "description": {
+      "ja": "おとめ座の青白い連星。2つの大質量星がわずか4日という短い周期で互いの至近距離を猛烈な勢いで周回し合っている。",
+      "en": "A close spectroscopic binary in Virgo featuring two blazing blue giant stars orbiting each other so tightly that mutual tidal tides distort their spherical forms."
+    },
+    "image": "body_54",
+    "facts": {
+      "distance": "約250 光年",
+      "type": "B型連星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 55,
+    "category": "star",
+    "rarity": 2,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "レグルス",
+      "en": "Regulus"
+    },
+    "description": {
+      "ja": "しし座の心臓に輝く四重連星の主星。極度の高速自転によって赤道半径が極半径より3割以上も張り出した楕円状の姿をしている。",
+      "en": "The heart of Leo the Lion. Blistering rotational velocity stretches its equator by more than 30 percent, driving extreme gravity darkening between its equator and poles."
+    },
+    "image": "body_55",
+    "facts": {
+      "distance": "約79.3 光年",
+      "type": "B型主系列星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 56,
+    "category": "star",
+    "rarity": 3,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "ポラリス (北極星)",
+      "en": "Polaris"
+    },
+    "description": {
+      "ja": "現在の天の北極に極めて近い位置にある三重連星。主星は明るさが周期的に脈動するケフェイド変光星であり、宇宙の距離を測る物差しとなる。",
+      "en": "The iconic northern pole star, serving as a reliable navigational beacon. It is a pulsating classical Cepheid variable star crucial for mapping cosmic distances."
+    },
+    "image": "body_56",
+    "facts": {
+      "distance": "約433 光年",
+      "type": "F型超巨星 (変光星)"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 57,
+    "category": "star",
+    "rarity": 3,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "アンタレス",
+      "en": "Antares"
+    },
+    "description": {
+      "ja": "さそり座の心臓部に君臨する赤色超巨星。太陽の700倍以上という途方もない大きさを誇り、強力な恒星風でガスを星間空間へ撒き散らしている。",
+      "en": "The scarlet heart of Scorpius. A vast red supergiant exceeding 700 solar radii, steadily disgorging turbulent stellar winds into a reflective surrounding nebula."
+    },
+    "image": "body_57",
+    "facts": {
+      "distance": "約550 光年",
+      "type": "赤色超巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 58,
+    "category": "star",
+    "rarity": 3,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "リゲル",
+      "en": "Rigel"
+    },
+    "description": {
+      "ja": "オリオン座の足元で青白く輝くB型超巨星。太陽の数十万倍という圧倒的なエネルギーを放っており、周囲の星間塵を鮮やかに照らし出している。",
+      "en": "A radiant blue-white supergiant marking the hunter Orion's western heel. Shining with the luminosity of tens of thousands of suns, its blazing photons ionize the local cosmos."
+    },
+    "image": "body_58",
+    "facts": {
+      "distance": "約860 光年",
+      "type": "B型超巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 59,
+    "category": "star",
+    "rarity": 3,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "デネブ",
+      "en": "Deneb"
+    },
+    "description": {
+      "ja": "白鳥座の尾に輝くA型白色超巨星。夏の大三角の一つでありながら、他の2星よりも遥か彼方に位置し、驚異的な絶対等級を誇る。",
+      "en": "A colossal white supergiant forming the celestial tail of Cygnus. Despite sitting thousands of light-years farther than other Summer Triangle stars, it pierces the night sky."
+    },
+    "image": "body_59",
+    "facts": {
+      "distance": "約2,600 光年",
+      "type": "A型白色超巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 60,
+    "category": "star",
+    "rarity": 3,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "カノープス",
+      "en": "Canopus"
+    },
+    "description": {
+      "ja": "全天でシリウスに次ぐ見かけの明るさを持つりゅうこつ座の輝星。宇宙船の姿勢制御において南天の恒星追尾基準として広く利用されている。",
+      "en": "The second-brightest star in Earth's sky, shining from Carina. Its stable illumination makes it a prime stellar navigation reference point for deep space probes."
+    },
+    "image": "body_60",
+    "facts": {
+      "distance": "約310 光年",
+      "type": "F型輝巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 61,
+    "category": "star",
+    "rarity": 3,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "フォーマルハウト",
+      "en": "Fomalhaut"
+    },
+    "description": {
+      "ja": "みなみのうお座の主星。若いA型星で、周囲をはっきりとした幾何学的ダストリングが取り巻いており、惑星系誕生の現場を物語る。",
+      "en": "A sparkling young A-type star in Piscis Austrinus. It is encircled by an iconic, sharply defined icy dust torus resembling a colossal glowing planetary eye."
+    },
+    "image": "body_61",
+    "facts": {
+      "distance": "約25.1 光年",
+      "type": "A型主系列星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 62,
+    "category": "star",
+    "rarity": 4,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "ベテルギウス",
+      "en": "Betelgeuse"
+    },
+    "description": {
+      "ja": "オリオン座の肩に位置する巨大な赤色超巨星。太陽の約1000倍の半径を持ち、生涯の最終段階にある。近い将来の超新星爆発が予測されている。",
+      "en": "An immense red supergiant perched upon Orion's shoulder. Swollen to roughly 1,000 times the sun's girth, this dying titan teeters on the brink of a spectacular supernova."
+    },
+    "image": "body_62",
+    "facts": {
+      "distance": "約640 光年",
+      "type": "赤色超巨星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 63,
+    "category": "star",
+    "rarity": 4,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "アケルナル",
+      "en": "Achernar"
+    },
+    "description": {
+      "ja": "エリダヌス座の端に輝く青色星。全天で最も自転が高速な星の一つで、赤道半径が極半径の1.5倍以上も張り出し、強烈な重力減光を示す。",
+      "en": "The brightest tip of the river Eridanus. Rotating at dizzying velocities, extreme centrifugal forces have flattened this stellar behemoth into a bizarre flattened disc."
+    },
+    "image": "body_63",
+    "facts": {
+      "distance": "約139 光年",
+      "type": "B型極超高速自転星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 64,
+    "category": "star",
+    "rarity": 4,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "リギル・ケンタウルス",
+      "en": "Rigil Kentaurus"
+    },
+    "description": {
+      "ja": "アルファ・ケンタウリ主星系。肉眼では単一のまばゆい星に見え、人類にとって最も身近な太陽系外の恒星系として長年探査の夢が語られている。",
+      "en": "The prominent naked-eye identity of the Alpha Centauri primary pair, shining as the brilliant southern foot of the Centaur and humanity's prime interstellar destination."
+    },
+    "image": "body_64",
+    "facts": {
+      "distance": "約4.37 光年",
+      "type": "連星系"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 65,
+    "category": "star",
+    "rarity": 5,
+    "min_tier": "T3",
+    "fictional": false,
+    "name": {
+      "ja": "R136a1",
+      "en": "R136a1"
+    },
+    "description": {
+      "ja": "大マゼラン雲のタランチュラ星雲内に位置する、観測史上最大級の質量を誇るウォルフ・ライエ星。太陽の数百倍の質量と数百万倍の光度を誇る怪物的恒星。",
+      "en": "A titan nestled inside the Tarantula Nebula of the Large Magellanic Cloud. Holding the crown as one of the most massive stars ever discovered, it shines with millions of solar luminosities."
+    },
+    "image": "body_65",
+    "facts": {
+      "distance": "約163,000 光年",
+      "type": "ウォルフ・ライエ星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 66,
+    "category": "nebula",
+    "rarity": 2,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "リング星雲 (M57)",
+      "en": "Ring Nebula (M57)"
+    },
+    "description": {
+      "ja": "こと座に位置する代表的な惑星状星雲。寿命を迎えた中心星が外層のガスを吹き飛ばし、ドーナツ状に輝く美しいガスの輪を残した姿。",
+      "en": "The iconic doughnut-shaped planetary nebula in Lyra. Formed when a dying star shed its glowing outer envelopes, exposing an incandescent white dwarf core."
+    },
+    "image": "body_66",
+    "facts": {
+      "distance": "約2,570 光年",
+      "type": "惑星状星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 67,
+    "category": "nebula",
+    "rarity": 2,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "ダンベル星雲 (M27)",
+      "en": "Dumbbell Nebula (M27)"
+    },
+    "description": {
+      "ja": "こぎつね座にある惑星状星雲。亜鈴（鉄アレイ）のような独特の砂時計型をしており、鮮やかな緑と赤の二色に輝くガスが広がる。",
+      "en": "The first planetary nebula ever discovered. Located in Vulpecula, its distinct hourglass lobes glow vividly in oxygen and hydrogen emission wavelengths."
+    },
+    "image": "body_67",
+    "facts": {
+      "distance": "約1,360 光年",
+      "type": "惑星状星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 68,
+    "category": "nebula",
+    "rarity": 2,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "らせん星雲 (NGC 7293)",
+      "en": "Helix Nebula"
+    },
+    "description": {
+      "ja": "みずがめ座にある地球から最も近い惑星状星雲の一つ。その形状から「神の目」とも呼ばれ、中心の白色矮星からの紫外線でガスが電離している。",
+      "en": "A dramatic planetary nebula in Aquarius often termed 'The Eye of God'. Its intricate radial filaments expand outwards, energized by a searing central white dwarf."
+    },
+    "image": "body_68",
+    "facts": {
+      "distance": "約655 光年",
+      "type": "惑星状星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 69,
+    "category": "nebula",
+    "rarity": 2,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "北アメリカ星雲 (NGC 7000)",
+      "en": "North America Nebula"
+    },
+    "description": {
+      "ja": "はくちょう座デネブの近くに広がる巨大な輝線星雲。北米大陸とメキシコ湾に酷似したガスの輪郭が、暗黒星雲の重なりによって形作られている。",
+      "en": "A vast emission cloud in Cygnus mimicking the geography of the North American continent, bounded by dark interstellar dust absorbing background starlight."
+    },
+    "image": "body_69",
+    "facts": {
+      "distance": "約2,590 光年",
+      "type": "輝線星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 70,
+    "category": "nebula",
+    "rarity": 3,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "オリオン大星雲 (M42)",
+      "en": "Orion Nebula (M42)"
+    },
+    "description": {
+      "ja": "オリオン座の小三ツ星付近に肉眼でも淡く見える活発な星形成領域。中心にある若い大質量星群トラペジウムが周囲の水素ガスを鮮やかに励起している。",
+      "en": "A sprawling diffuse stellar nursery visible to the naked eye. Energetic ultraviolet photons from the newborn Trapezium star cluster make its hydrogen billows glow brightly."
+    },
+    "image": "body_70",
+    "facts": {
+      "distance": "約1,344 光年",
+      "type": "散光星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 71,
+    "category": "nebula",
+    "rarity": 3,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "ばら星雲 (NGC 2237)",
+      "en": "Rosette Nebula"
+    },
+    "description": {
+      "ja": "いっかくじゅう座にあるバラの花びらのような美しい円形星雲。中央に位置する若い星団の恒星風によって内部が空洞化され、特異な造形を生み出している。",
+      "en": "A breathtaking cosmic rose blooming in Monoceros. Powerful stellar winds from an energetic central cluster carve out a hollow core bordered by dense dust pillars."
+    },
+    "image": "body_71",
+    "facts": {
+      "distance": "約5,200 光年",
+      "type": "散光星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 72,
+    "category": "nebula",
+    "rarity": 3,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "干潟星雲 (M8)",
+      "en": "Lagoon Nebula (M8)"
+    },
+    "description": {
+      "ja": "いて座の天の川の中に位置する巨大な輝線星雲。内部を横切る暗黒星雲の帯が干潟の浅瀬のように見えることから命名された、活発な星の揺籃地。",
+      "en": "A classified giant emission cloud in Sagittarius traversed by a meandering dark dust lane resembling an ocean lagoon, harboring fertile young star clusters."
+    },
+    "image": "body_72",
+    "facts": {
+      "distance": "約4,100 光年",
+      "type": "HII領域"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 73,
+    "category": "nebula",
+    "rarity": 3,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "三裂星雲 (M20)",
+      "en": "Trifid Nebula (M20)"
+    },
+    "description": {
+      "ja": "赤い輝線星雲、青い反射星雲、そして全体を三つに引き裂く暗黒星雲の筋が織りなす、極めて色彩豊かで複雑な美しさを持つ星雲。",
+      "en": "A stellar gem in Sagittarius featuring a rare trio of components: a crimson emission cloud, an azure reflection veil, and dividing silhouettes of opaque dark lanes."
+    },
+    "image": "body_73",
+    "facts": {
+      "distance": "約5,200 光年",
+      "type": "複合星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 74,
+    "category": "nebula",
+    "rarity": 3,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "網状星雲 (Veil Nebula)",
+      "en": "Veil Nebula"
+    },
+    "description": {
+      "ja": "約1万年前の超新星爆発の残骸。はくちょう座に広がる巨大な輪状構造の一部であり、衝撃波によって加熱されたガスがレースのように複雑に絡み合う。",
+      "en": "The delicate, wispy filigree of an ancient supernova remnant in Cygnus. Shock waves sweeping through the interstellar medium ignite ionized ribbons of gas."
+    },
+    "image": "body_74",
+    "facts": {
+      "distance": "約2,400 光年",
+      "type": "超新星残骸"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 75,
+    "category": "nebula",
+    "rarity": 3,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "猫の目星雲 (NGC 6543)",
+      "en": "Cat's Eye Nebula"
+    },
+    "description": {
+      "ja": "りゅう座にある非常に構造が複雑な惑星状星雲。同心円状のガスの殻やジェットの噴出痕が重なり合い、中心星の活動史を色鮮やかに物語る。",
+      "en": "One of the most topologically intricate planetary nebulae in Draco, featuring layered concentric bubbles, relativistic gas jets, and knotty shock knots."
+    },
+    "image": "body_75",
+    "facts": {
+      "distance": "約3,300 光年",
+      "type": "惑星状星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 76,
+    "category": "nebula",
+    "rarity": 4,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "かに星雲 (M1)",
+      "en": "Crab Nebula (M1)"
+    },
+    "description": {
+      "ja": "西暦1054年に地球上で観測された超新星爆発の残骸。中心には1秒間に約30回転するパルサーが存在し、高エネルギー放射を放ち続けている。",
+      "en": "The celebrated remnant of a historical supernova recorded by ancient astronomers in 1054 AD. At its heart spins an energetic pulsar powering a dynamic synchrotron wind nebula."
+    },
+    "image": "body_76",
+    "facts": {
+      "distance": "約6,500 光年",
+      "type": "超新星残骸"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 77,
+    "category": "nebula",
+    "rarity": 4,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "わし星雲 (M16)",
+      "en": "Eagle Nebula (M16)"
+    },
+    "description": {
+      "ja": "「創造の柱」として世界的に有名な星形成領域。暗黒のガスと塵が巨大な塔のようにそびえ立ち、先端の内部で新たな原始星が次々と誕生している。",
+      "en": "Famous worldwide for the towering 'Pillars of Creation'. Massive columns of dense gas and interstellar dust serve as active incubators for emerging protostars."
+    },
+    "image": "body_77",
+    "facts": {
+      "distance": "約7,000 光年",
+      "type": "散光星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 78,
+    "category": "nebula",
+    "rarity": 4,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "馬頭星雲 (Barnard 33)",
+      "en": "Horsehead Nebula"
+    },
+    "description": {
+      "ja": "オリオン座の背後の赤い水素発光星雲を背景に、馬の頭のシルエットとしてくっきりと浮かび上がる極めて有名な暗黒星雲。",
+      "en": "An iconic dark absorption silhouette in Orion resembling a noble stallion's head, cast in stark relief against a backdrop of shimmering crimson ionized gas."
+    },
+    "image": "body_78",
+    "facts": {
+      "distance": "約1,375 光年",
+      "type": "暗黒星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 79,
+    "category": "nebula",
+    "rarity": 4,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "タランチュラ星雲 (30 Doradus)",
+      "en": "Tarantula Nebula"
+    },
+    "description": {
+      "ja": "大マゼラン雲にある局所銀河群最大級のモンスター星形成領域。もしこれがオリオン大星雲の距離にあれば、夜空に影ができるほどの明るさを放つ。",
+      "en": "An exceptionally luminous starburst region in the Large Magellanic Cloud. If placed as close as Orion, its radiant glow would cast discernible nighttime shadows on Earth."
+    },
+    "image": "body_79",
+    "facts": {
+      "distance": "約160,000 光年",
+      "type": "超巨大HII領域"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 80,
+    "category": "nebula",
+    "rarity": 4,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "カリーナ星雲 (NGC 3372)",
+      "en": "Carina Nebula"
+    },
+    "description": {
+      "ja": "りゅうこつ座に広がる巨大な星雲で、オリオン大星雲の数倍の規模を誇る。高光度青色変光星りゅうこつ座イータ星を抱え、神秘的な宇宙の景観を広げる。",
+      "en": "A dynamic cosmic cauldron dwarfing the Orion Nebula. It envelopes several hypergiant stars including the volatile binary system Eta Carinae."
+    },
+    "image": "body_80",
+    "facts": {
+      "distance": "約8,500 光年",
+      "type": "大散光星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 81,
+    "category": "nebula",
+    "rarity": 5,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "砂時計星雲 (MyCn 18)",
+      "en": "Hourglass Nebula"
+    },
+    "description": {
+      "ja": "ハエ座に位置する極めて対称性の高い若い惑星状星雲。高速の恒星風が赤道面の濃いガス帯に遮られ、完璧な砂時計状の空洞を吹き抜けた奇跡の造形。",
+      "en": "An eerily symmetrical young planetary nebula in Musca. High-speed polar winds sculpted expanding twin lobes resembling a fragile glass hourglass across the void."
+    },
+    "image": "body_81",
+    "facts": {
+      "distance": "約8,000 光年",
+      "type": "極限対称星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 82,
+    "category": "nebula",
+    "rarity": 5,
+    "min_tier": "T4",
+    "fictional": false,
+    "name": {
+      "ja": "人形星雲 (Homunculus Nebula)",
+      "en": "Homunculus Nebula"
+    },
+    "description": {
+      "ja": "りゅうこつ座イータ星が19世紀に起こした大爆発（疑似超新星）で噴出した双極のガス雲。2つの巨大な球状ローブが猛スピードで膨張を続けている。",
+      "en": "A bipolar reflection cloud ejected during the Great Eruption of Eta Carinae in the 1840s. Two expanding dusty lobes hurtle outward at thousands of kilometers per second."
+    },
+    "image": "body_82",
+    "facts": {
+      "distance": "約7,500 光年",
+      "type": "双極性噴出星雲"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 83,
+    "category": "compact",
+    "rarity": 3,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "ベラ・パルサー (PSR B0833-45)",
+      "en": "Vela Pulsar"
+    },
+    "description": {
+      "ja": "ほ座超新星残骸の中心にある中性子星。1秒間に約11回自転し、強力な電波やガンマ線のパルスを灯台のように規則正しく宇宙へ放っている。",
+      "en": "A rapidly rotating neutron star residing inside the Vela Supernova Remnant. Whirling 11 times every second, it sweeps relentless beams of radio and gamma emissions."
+    },
+    "image": "body_83",
+    "facts": {
+      "distance": "約936 光年",
+      "type": "電波パルサー"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 84,
+    "category": "compact",
+    "rarity": 3,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "中性子星 RX J1856.5-3754",
+      "en": "Neutron Star RX J1856"
+    },
+    "description": {
+      "ja": "地球から最も近い単独の中性子星「マグニフィセント・セブン」の一つ。熱放射のみを静かに放っており、中性子星の半径や状態方程式の研究基準となる。",
+      "en": "The nearest isolated neutron star to Earth, belonging to the 'Magnificent Seven'. Emitting pure thermal surface radiation, it acts as a testbed for dense matter physics."
+    },
+    "image": "body_84",
+    "facts": {
+      "distance": "約400 光年",
+      "type": "孤立中性子星"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 85,
+    "category": "compact",
+    "rarity": 4,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "かにパルサー (PSR B0531+21)",
+      "en": "Crab Pulsar"
+    },
+    "description": {
+      "ja": "かに星雲の中心に座す高速回転中性子星。1秒間に30回転し、周囲の高エネルギー荷電粒子を加速して星雲全体を内側から輝かせている。",
+      "en": "The beating dynamo of the Crab Nebula, spinning 30 times a second. Its intense relativistic magnetic field pumps enormous kinetic energy into the surrounding nebula."
+    },
+    "image": "body_85",
+    "facts": {
+      "distance": "約6,500 光年",
+      "type": "パルサー"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 86,
+    "category": "compact",
+    "rarity": 4,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "マグネター SGR 1806-20",
+      "en": "Magnetar SGR 1806-20"
+    },
+    "description": {
+      "ja": "宇宙最強クラスの磁場（100億テスラ超）を持つ中性子星。星震によって発生した巨大なガンマ線フレアは、数万光年離れた地球の電離層にまで影響を与えた。",
+      "en": "An extreme magnetar wielding magnetic fields exceeding a hundred billion teslas. A gigantic starquake flare from this titan once visibly disturbed Earth's upper ionosphere."
+    },
+    "image": "body_86",
+    "facts": {
+      "distance": "約50,000 光年",
+      "type": "マグネター"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 87,
+    "category": "compact",
+    "rarity": 4,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "はくちょう座X-1",
+      "en": "Cygnus X-1"
+    },
+    "description": {
+      "ja": "人類が史上初めてブラックホールの存在を確実視した歴史的なX線連星。青色超巨星から吸い寄せられたガスが高温の降着円盤を形成し強烈なX線を放つ。",
+      "en": "The first widely accepted stellar-mass black hole candidate discovered in astronomy. Accreting searing gas from a blue supergiant companion, it pours forth intense X-rays."
+    },
+    "image": "body_87",
+    "facts": {
+      "distance": "約7,200 光年",
+      "type": "恒星質量ブラックホール"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 88,
+    "category": "compact",
+    "rarity": 4,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "ガイアBH1",
+      "en": "Gaia BH1"
+    },
+    "description": {
+      "ja": "太陽系に最も近い既知の恒星質量ブラックホール。太陽に似た主系列星と連星を組んでおり、物質の激しい降着がないため極めて静穏な状態で発見された。",
+      "en": "The closest known stellar-mass black hole to Earth. Orbiting peacefully alongside a sun-like companion star, it was detected entirely through precision astrometry."
+    },
+    "image": "body_88",
+    "facts": {
+      "distance": "約1,560 光年",
+      "type": "休止型ブラックホール"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 89,
+    "category": "compact",
+    "rarity": 5,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "いて座A* (Sagittarius A*)",
+      "en": "Sagittarius A*"
+    },
+    "description": {
+      "ja": "我々の天の川銀河の中心に鎮座する超大質量ブラックホール。太陽の約400万倍の質量を持ち、事象の地平線望遠鏡によってその「影」が直接撮影された。",
+      "en": "The supermassive black hole anchoring the center of our Milky Way galaxy. Packing four million solar masses, its dark shadow was directly resolved by the Event Horizon Telescope."
+    },
+    "image": "body_89",
+    "facts": {
+      "distance": "約26,700 光年",
+      "type": "銀河中心超大質量BH"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 90,
+    "category": "compact",
+    "rarity": 5,
+    "min_tier": "T5",
+    "fictional": false,
+    "name": {
+      "ja": "M87* (M87中心ブラックホール)",
+      "en": "M87*"
+    },
+    "description": {
+      "ja": "おとめ座A銀河（M87）の中心にある超大質量ブラックホール。太陽の約65億倍という圧倒的質量を誇り、人類史上初めて事象の地平線の影が撮影された。",
+      "en": "The cosmic behemoth reigning at the core of galaxy Messier 87. Weighing 6.5 billion suns, it generated humanity's first historic direct image of a black hole shadow."
+    },
+    "image": "body_90",
+    "facts": {
+      "distance": "約5,350万 光年",
+      "type": "超巨大超大質量BH"
+    },
+    "source": "NASA/JAXA/NAOJ public astronomical records"
+  },
+  {
+    "id": 91,
+    "category": "probe",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "パイオニア・未知号",
+      "en": "Pioneer-Unknown"
+    },
+    "description": {
+      "ja": "【フィクション】太陽風に乗って深宇宙を漂流する旧式の無人探査機。金属板に刻まれたメッセージはかすれているが、今も微弱なビーコンを発信している。",
+      "en": "[Fiction] An archaic probe drifting silently across the outer rim. Though its engraved metallic plaque is worn by dust, its antique transmitter still pulses faint beacons."
+    },
+    "image": "body_91",
+    "facts": {
+      "distance": "未知の宙域",
+      "type": "漂流探査機"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 92,
+    "category": "probe",
+    "rarity": 1,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "観測ポッド-09",
+      "en": "Survey Pod-09"
+    },
+    "description": {
+      "ja": "【フィクション】外惑星周回軌道から脱落し、永遠の慣性飛行を続ける球形ポッド。内部の記憶結晶には失われた星図データがそのまま保存されている。",
+      "en": "[Fiction] A spherical survey pod that broke free from an outer planetary orbit. Inside its crystalline core remains pristine navigational charts of forgotten star clusters."
+    },
+    "image": "body_92",
+    "facts": {
+      "distance": "カイパー回廊",
+      "type": "観測ポッド"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 93,
+    "category": "probe",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "ヴォイジャーX",
+      "en": "Voyager-X"
+    },
+    "description": {
+      "ja": "【フィクション】恒星間飛行の限界に挑んだ古代の探査機。原子力電池の余熱を利用して今もなお星間物質の密度データを宇宙へ放ち続けている。",
+      "en": "[Fiction] A venerable deep-space voyager designed to breach the heliopause. Warming its sensors with lingering isotopic decay, it faithfully radios back interstellar density stats."
+    },
+    "image": "body_93",
+    "facts": {
+      "distance": "星間境界面",
+      "type": "恒星間探査機"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 94,
+    "category": "probe",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "漂流ビーコン「ヘリオス」",
+      "en": "Drift Beacon Helios"
+    },
+    "description": {
+      "ja": "【フィクション】小惑星帯の鉱山採掘計画で設置された自動灯台。企業が撤退した数百年後も、航行する船へ孤独に安全信号を点滅させ続けている。",
+      "en": "[Fiction] An automated navigation lighthouse deployed for an abandoned asteroid mining project, still flashing lonely guidance pings centuries after its creators departed."
+    },
+    "image": "body_94",
+    "facts": {
+      "distance": "小惑星帯第4区",
+      "type": "航路標識"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 95,
+    "category": "probe",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "遺棄されたスキャナー",
+      "en": "Derelict Scanner Rig"
+    },
+    "description": {
+      "ja": "【フィクション】重力波観測のために無人で配備された大型アンテナ網の残骸。太陽フレアの影響を受けながらも、自動修復ナノマシンが外装を保っている。",
+      "en": "[Fiction] A derelict orbital antenna array built for early gravitational-wave mapping. Primitive self-repair nanites still slowly patch its heat-scorched solar fins."
+    },
+    "image": "body_95",
+    "facts": {
+      "distance": "太陽軌道宙域",
+      "type": "観測アレイ"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 96,
+    "category": "probe",
+    "rarity": 2,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "星間測量ドローン",
+      "en": "Interstellar Survey Drone"
+    },
+    "description": {
+      "ja": "【フィクション】自律型AIを搭載した高機動探査ドローン。長い旅路の果てに燃料を使い果たし、休眠状態で星々の間を静かに渡っている。",
+      "en": "[Fiction] An autonomous survey drone governed by archaic heuristics. Running its chemical thrusters completely dry, it slumbers in deep cryo-standby among the stars."
+    },
+    "image": "body_96",
+    "facts": {
+      "distance": "深宇宙漂流軌道",
+      "type": "自律ドローン"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 97,
+    "category": "probe",
+    "rarity": 3,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "オウムアムア・プローブ",
+      "en": "Oumuamua Probe"
+    },
+    "description": {
+      "ja": "【フィクション】葉巻型の小天体に偽装された未知の観測機。表面は有機炭化物の保護膜で覆われ、太陽重力を利用して外宇宙へ急速に加速離脱中。",
+      "en": "[Fiction] A cigar-shaped kinetic probe disguised as an interstellar asteroid. Glazed in protective carbon tholins, it executes a silent gravitational slingshot back into the dark."
+    },
+    "image": "body_97",
+    "facts": {
+      "distance": "離脱双曲線軌道",
+      "type": "偽装型異星プローブ"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 98,
+    "category": "probe",
+    "rarity": 3,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "深宇宙モノリス",
+      "en": "Deep Space Monolith"
+    },
+    "description": {
+      "ja": "【フィクション】漆黒の完全長方形の謎の構造体。光を一切反射せず、内部から微弱な重力波のハーモニクスを宇宙空間へと響かせている。",
+      "en": "[Fiction] A pitch-black geometric monolith floating undisturbed in deep space. Absorbing all incident photons, it emits rhythmic pulses of miniature gravitational harmonics."
+    },
+    "image": "body_98",
+    "facts": {
+      "distance": "位置特定不能",
+      "type": "異星人工物"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 99,
+    "category": "probe",
+    "rarity": 3,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "謎の量子中継器",
+      "en": "Quantum Relay Echo"
+    },
+    "description": {
+      "ja": "【フィクション】超光速通信網の一部と推測される幾何学的装置。今なお量子もつれ対を保持しており、受信機を近づけると不可解なデジタル音を返す。",
+      "en": "[Fiction] A geometric satellite thought to be an ancient node of a superluminal communications web, maintaining quantum entangled pairs that chime with encrypted harmonics."
+    },
+    "image": "body_99",
+    "facts": {
+      "distance": "黄道面直下",
+      "type": "量子中継機"
+    },
+    "source": "Original Fiction"
+  },
+  {
+    "id": 100,
+    "category": "probe",
+    "rarity": 4,
+    "min_tier": "T2",
+    "fictional": true,
+    "name": {
+      "ja": "オメガ・アルケオロジー機",
+      "en": "Omega Archeology Vessel"
+    },
+    "description": {
+      "ja": "【フィクション】恒星文明の遺産を収集・保存するために銀河を巡る自律巨大探査船。船内ライブラリには数百万年分の天体観測記録が眠っている。",
+      "en": "[Fiction] A colossal automated ark engineered to archive cosmic histories. Its vast crystalline libraries sleep silently, guarding millions of years of star system charts."
+    },
+    "image": "body_100",
+    "facts": {
+      "distance": "銀河ハロー外縁",
+      "type": "自律型巨大探査船"
+    },
+    "source": "Original Fiction"
+  }
+]

@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 宇宙船のシンプルな幾何学的ドットアイコン -->
+    <path
+        android:fillColor="#5BC8FF"
+        android:pathData="M54,28 L64,48 L64,74 L44,74 L44,48 Z" />
+    <path
+        android:fillColor="#F2F4F7"
+        android:pathData="M54,32 L60,48 L48,48 Z" />
+    <path
+        android:fillColor="#FFB454"
+        android:pathData="M48,74 L60,74 L54,84 Z" />
+</vector>
